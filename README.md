@@ -3,7 +3,7 @@
 
 
 🚀 **Computer Science Student** | Passionate about building scalable and innovative solutions  
-🎓 Currently studying at [Your University]. Focused on **Cloud Computing**, **Algorithms**, and **Data Management**.  
+🎓 Currently studying at University of Engineering and Technology. Focused on **Cloud Computing**, **Algorithms**, and **Data Management**.  
 🌟 Aiming to solve complex problems with clean, efficient, and impactful code.  
 
 

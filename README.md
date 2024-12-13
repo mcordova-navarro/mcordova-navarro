@@ -1,6 +1,6 @@
 # my_profile
 # 👋 Hi, I'm Milton Joel Córdova Navarro  
-
+a
 
 🚀 **Computer Science Student** | Passionate about building scalable and innovative solutions  
 🎓 Currently studying at University of Engineering and Technology. Focused on **Cloud Computing**, **Algorithms**, and **Data Management**.  

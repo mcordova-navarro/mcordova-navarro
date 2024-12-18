@@ -51,8 +51,8 @@ a
 
 
 ## 📈 GitHub Stats  
-![Milton's GitHub stats](https://github-readme-stats.vercel.app/api?username=milton&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milton&layout=compact&theme=radical)
+![Milton's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcordova-navarro&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcordova-navarro&layout=compact&theme=radical)
 
 
 

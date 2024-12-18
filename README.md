@@ -1,4 +1,3 @@
-# my_profile
 # 👋 Hi, I'm Milton Joel Córdova Navarro  
 a
 

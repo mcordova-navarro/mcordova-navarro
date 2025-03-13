@@ -56,7 +56,7 @@
 
 
 ## 🌐 Let's Connect  
-- 🌍 [Portfolio](https://github.com/mcordova-navarro/mi_portafolio)  
+- 🌍 [Portfolio](https://mcordova-navarro.github.io/mi_portafolio/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/milton-cordova-4a6346341/)  
 - 📧 Email: milton.cordova2121@gmail.com  
 
